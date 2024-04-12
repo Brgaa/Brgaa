@@ -17,7 +17,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver o trabalho em
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+O nosso projeto tem como objetivo mapear potenciais cargas para movimentação do Aeroporto de SJK com base em dados de importações e exportações de municípios da RMVALE e LITORAL NORTE.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
